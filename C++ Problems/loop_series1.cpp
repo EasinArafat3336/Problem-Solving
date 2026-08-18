@@ -15,12 +15,6 @@ int main(){
    sum = sum + 1.0 / pow(i, i);
  }
  cout <<"Sum of the numbers: "<< sum;
- 
-
-
-
-
-
 
   return 0;
 }
